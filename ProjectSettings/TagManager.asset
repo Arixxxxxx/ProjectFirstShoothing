@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemey
+  - Bullet
+  - Play
+  - EnemyBullet
+  - Boss
+  - PlayerHPBAR
+  - BossHPBAR
+  - BossBullet
+  - Item
+  - SuperBullet
+  - Bullet2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - OnDamaged
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Item
+  - Boss
+  - BossBullet
+  - BossDead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
